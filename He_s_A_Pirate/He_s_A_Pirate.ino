@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem
+ * 
+ * Plays Pirates of the Carribean "He's a Pirate" on a speaker or piezo speaker
+ */
+
 #include "pitches.h"
 #define NO_SOUND 0 // make the rests in music
 

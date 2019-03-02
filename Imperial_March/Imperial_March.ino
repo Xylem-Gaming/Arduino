@@ -1,3 +1,8 @@
+/*
+ * Made by Xylem
+ * 
+ * Plays Star Wars "Imperial March" on a speaker or piezo speaker
+ */
 // NB: ALL NOTES DEFINED WITH STANDARD ENGLISH NAMES, EXCEPT FROM "A" 
 //THAT IS CALLED WITH THE ITALIAN NAME "LA" BECAUSE A0,A1...ARE THE ANALOG PINS ON ARDUINO.
 // (Ab IS CALLED Ab AND NOT LAb)

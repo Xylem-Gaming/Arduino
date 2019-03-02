@@ -1,3 +1,7 @@
+/*
+ * Not mine lol
+ */
+
 #include <FastLED.h>
 
 #include "Plasma.cpp"

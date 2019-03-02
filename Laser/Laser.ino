@@ -1,3 +1,9 @@
+/*
+ * Made by Michael Reeves
+ * 
+ * Laser Turret code for the arduino
+ */
+
 #include<Servo.h> //importing the servo library
 
 Servo serX; //Initating variables

@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem with help from the FastLED git wiki
+ * 
+ * This script changes the colour of all 100 WS2812B LEDs to red
+ * However this wont work with my LEDs as the value associated with the hex value is off making red, green
+ */
 #include <FastLED.h>
 #define NUM_LEDS 150
 #define DATA_PIN 6

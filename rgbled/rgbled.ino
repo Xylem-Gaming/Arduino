@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem
+ * 
+ * Goes through the 3 values of a RGB led usuing the value "fade"
+ */
+
 int red = 9;
 int green = 10;
 int blue = 11;

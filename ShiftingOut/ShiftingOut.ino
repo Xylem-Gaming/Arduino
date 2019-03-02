@@ -1,3 +1,8 @@
+/*
+ * Made by Xylem
+ * 
+ * My first attempt to use a shift register to increase the number of outputs on the arduino
+ */
 int latchPin = 9;
 int clockPin = 10;
 int dataPin = 8;

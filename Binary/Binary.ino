@@ -1,3 +1,11 @@
+/* 
+ * Made by Xylem 
+ * This project makes a very simple 4 bit binary counter (really shoddy coding however
+ * 
+ * Wire 4 LEDs to the digital pins in this sequence 3, 4, 5, 6
+ * Wire 1 button to digital pin 2 to add a digit to the counter
+ */
+
 int dig1 = 3;
 int dig2 = 4;
 int dig3 = 5;

@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem
+ * 
+ * Very simple script that tests an arduino by turning on and off a LED on pin 13
+ */
+
 int led = 13;
 void setup() {
   pinMode(led,OUTPUT);

@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem inspired by the FastLED library
+ * 
+ * Goes through all the LEDs and turns each individual LED on then off
+ */
+
 #include <FastLED.h>
 #define NUM_LEDS 100
 #define DATA_PIN 6

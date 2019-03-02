@@ -1,3 +1,9 @@
+/*
+ * Made by Xylem inspired by the FastLED library
+ * 
+ * This program is a loop that goes through the whole colour spectrum of the WS2812B LEDs
+ */
+
 #include <FastLED.h>
 #define NUM_LEDS 100
 #define DATA_PIN 6
